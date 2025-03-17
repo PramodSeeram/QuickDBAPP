@@ -1,0 +1,22 @@
+# Virtual Environment
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE-specific files (optional, depending on your editor)
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dependency directories
+pip-wheel-metadata/
+.tox/
+.nox/
+.coverage
+.hypothesis/
+.pytest_cache/
